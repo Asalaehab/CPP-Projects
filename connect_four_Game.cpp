@@ -1,7 +1,5 @@
-/*         NAMES:                                IDs:
- *    Abdelrahman Ehab Samir Mohamed           20200312
- *    Rana Rabie Ali Mohamed                   20201068
- *    Asala Ehab Mohamed Ahmed                 20201020
+/*         NAMES:                                
+ *    Asala Ehab Mohamed Ahmed                 
  * */
 #include <iostream>
 
